@@ -1,0 +1,1 @@
+Test app for https://github.com/spring-projects/spring-boot/issues/21679[Spring Boot issue 21679]
